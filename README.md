@@ -1,6 +1,8 @@
 # Mouse Pointer Glowing Effect
 
-![Mouse Pointer Glowing Effect](https://your-image-url.com)
+![Mouse Pointer Glowing Effect](https://github.com/hamzalodhi2023/Mouse-Pointer-Glowing-Effect/blob/master/mouse1%20(1).png)
+![Mouse Pointer Glowing Effect](https://github.com/hamzalodhi2023/Mouse-Pointer-Glowing-Effect/blob/master/mouse2.png)
+![Mouse Pointer Glowing Effect](https://github.com/hamzalodhi2023/Mouse-Pointer-Glowing-Effect/blob/master/mouse3.png)
 
 🌐 **Live Demo**: [View Demo](https://hamzalodhi2023.github.io/Mouse-Pointer-Glowing-Effect/)
 
